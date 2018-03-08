@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi There!
+
+Raj here, I am interested in building Python and Django projects.
+Java Scripts are the added flavor.
